@@ -1,0 +1,11 @@
+*.pdf
+*.log
+*.nav
+*.toc
+*.vrb
+*.synctex.gz
+*.snm
+*.aux
+*.tek_cache
+*.out
+*~
