@@ -9,3 +9,5 @@
 *.tek_cache
 *.out
 *~
+*Makefile
+*DS_Store
